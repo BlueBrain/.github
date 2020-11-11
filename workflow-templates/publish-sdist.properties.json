@@ -1,0 +1,8 @@
+{
+    "name": "Publish sdist tarball to PyPi",
+    "description": "An NSE template to upload an sdist tarball to PyPi",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ]
+}
