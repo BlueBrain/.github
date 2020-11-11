@@ -1,4 +1,4 @@
-name: Python package
+name: Run all tox python3
 
 on:
     pull_request:
