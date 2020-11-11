@@ -91,5 +91,5 @@ jobs:
         uses: pypa/gh-action-pypi-publish@master
         with:
           user: __token__
-          password: ${{ secrets.PYPI_TOKEN_PASSWORD }}
+          password: ${{ secrets.PYPI_PASSWORD }}
           packages_dir: dist/
