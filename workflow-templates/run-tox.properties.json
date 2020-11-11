@@ -1,0 +1,11 @@
+{
+    "name": "Run tox",
+    "description": "An NSE template to run tox like a boss",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "^tox.ini$"
+    ]
+}
