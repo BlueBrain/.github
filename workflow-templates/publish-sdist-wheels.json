@@ -1,0 +1,12 @@
+{
+    "name": "Publish sdist and wheels macos-manylinux",
+    "description": "An NSE template to build macos and manylinux wheel and sdist and publish to pypi",
+    "iconName": "example-icon",
+    "categories": [
+        "Python",
+        "C++"
+    ],
+    "filePatterns": [
+        "^setup.py$"
+    ]
+}
